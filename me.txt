@@ -1,0 +1,39 @@
+Hi, I am Zhu Liang.
+
+## Early life and Education
+
+I am 32 years old as of April 2025. I was born in China, and I moved to Singapore at the age of 15 in 2008 on a scholarship program. I have since been studying and living in Singapore.
+
+I studied Computer Science in NUS for undergraduate degree from 2013 to 2017, where I learnt AI, machine learning and reinforcement learning.
+
+## Work Experience
+
+I worked at Grab and Ant Group for 5 years as a software engineer from 2017 to 2022. Tech stack used in Grab includes React, Ruby on Rails and golang. I had experience managing the web apps as a monorepo using lerna, as well as setting up CI/CD pipeline for web apps in Grab using Ansible, Jenkins and Groovy scripts on AWS.
+
+In Ant, I have experience leading a team of 10 software engineers across timezones. I've built several high-profile projects such as consumer web checkout for Alipay+, Mini program development portal and key modules like cashier, checkout and top-up for commercial e-wallet solutions.
+
+The tech stack is mainly React and Vue for frontend, and internal Node.js based framework for backend. I have consistently gotten exceeds expectations in performance reviews and the last key project I worked on was delivered ahead of schedule.
+
+## Solo Founder Experience
+
+I start [AI Simulator](https://ai-simulator.com/) as a sole proprietorship in 2022 after I left my job at Ant Group to pursue entrepreneurship. I built a series of AI Simulator games in 2022 and 2023, where players can use AI to play puzzle games like 2024, snake and block puzzle on their mobile phone.
+
+It also allows players to train and run popular RL models like DQN and PPO on their mobile phone. I believe I'm the first person to make the PPO training work on mobile phones.
+
+The tech stack is mainly React Native, Expo and tensorflow.js. I also submitted and merged [3 pull requests](https://github.com/tensorflow/tfjs/commits?author=paradite) to the tensorflow.js repo to fix some issues.
+
+At end of 2023, I have [replicated GPT-2 results](https://16x.engineer/2023/12/29/nanoGPT-azure-T4-ubuntu-guide.html) myself by running nanoGPT on an Azure instance.
+
+I built [16x Prompt](https://prompt.16x.engineer/) in September 2023, an desktop GUI application that streamlines AI coding workflow. The app is built in Electron.js and Vue.js. The project is live and I have been shipping updates and improvements regularly.
+
+By April 2025, I have 7000+ users, more than 500 paid customers (who bought the lifetime license), and made 15k SGD in lifetime sale.
+
+I started building a new desktop app called [16x Eval](https://eval.16x.engineer/) in March 2025. The app aims to be the central workspace for AI developers to evaluate prompts and models.
+
+## Consulting and Writing Experience
+
+I have been consulting for several smaller companies and startups in 2024 as fractional CTO and consultation, helping them build software and AI solutions.
+
+I started posting on [LinkedIn](https://www.linkedin.com/in/zhu-liang/) regularly around 2023 and have grown my audience on LinkedIn to over 10,000 followers in March 2025, thanks to a few viral posts on topics such as frontend, software engineering and AI. I am part of the LinkedIn Top Voices program, an invitation-only group of experts across the professional world.
+
+I recently started a newsletter [The Ground Truth](https://thegroundtruth.substack.com/) to write longer piece of content on AI.
