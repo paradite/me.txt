@@ -26,11 +26,11 @@ The tech stack is mainly React Native, Expo and tensorflow.js. I also submitted 
 
 ### 16x Prompt
 
-I built [16x Prompt](https://prompt.16x.engineer/) in September 2023, an desktop GUI application that streamlines AI coding workflow. The app is built in Electron.js and Vue.js. The project is live and I have been shipping updates and improvements regularly.
+I built [16x Prompt](https://prompt.16x.engineer/) in September 2023, an desktop GUI application that streamlines AI coding workflow. The app is built in Electron.js and Vue.js. The project is alive and still making revenue, but facing increased competition from bigger players like Cursor, Claude Code as well as other similar tools. The monthly revenue has declined from $2000 to $1000 recently.
 
 By June 2025, I have 10,000+ users, more than 500 paid customers (who bought the lifetime license), and made 15k SGD in lifetime sale.
 
-### 16x Tracker 
+### 16x Tracker
 
 To help with marketing on Reddit, I built [16x Tracker](https://tracker.16x.engineer/) at end of 2024. It is a SaaS app that tracks keyword mentions on Reddit, consolidate results on a dashboard where user can mark each hit as relevant / irrelevant or reply.
 
@@ -48,11 +48,17 @@ I started building a new desktop app called [16x Eval](https://eval.16x.engineer
 
 Key features include prompt and context management, running evaluations with different combinations of prompts and models, and comparing various metrics (length, cost, speed, evaluation score) to see which combination works the best. The scoring of the model output can be done by custom evaluation functions and human rating.
 
+The product had some early interests from existing users of 16x Prompt, and I have a few paying customers since soft launching it in March 2025.
+
 ### 16x Writer
 
-To help with SEO and writing blog posts, I built a new SaaS called 16x Writer (not yet officially launched). It is AI-assiting writing platform that streamlines the workflow of creating new blog posts and making edits via AI or manually.
+To help with SEO and writing blog posts, I built a new SaaS called 16x Writer (not yet officially launched). It is AI-assiting writing platform that streamlines the workflow of creating new blog posts and making edits via AI or manually. The aim is to quickly create quality blog posts that are useful for readers and convert.
 
 Key features include prompt and context (information sources and writing style references) management, version control, comparison between generation results from multiple AI models, compare versions and view changes visually.
+
+### Community Building
+
+I have a discord server for all my 16x Products, which has 150 members as of June 2025, and a Telegram group with 50 people. Within the AI startup circle in Singapore, I have met quite a few strangers telling me that they know or have used 16x Prompt before.
 
 ## Consulting and Writing Experience
 
