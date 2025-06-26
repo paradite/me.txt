@@ -2,7 +2,7 @@ Hi, I am Zhu Liang.
 
 ## Early life and Education
 
-I am 32 years old as of April 2025. I was born in China, and I moved to Singapore at the age of 15 in 2008 on a scholarship program. I have since been studying and living in Singapore.
+I was born in China, and I moved to Singapore at the age of 15 in 2008 on a scholarship program. I have since been studying and living in Singapore.
 
 I studied Computer Science in NUS for undergraduate degree from 2013 to 2017, where I learnt AI, machine learning and reinforcement learning.
 
@@ -16,27 +16,49 @@ The tech stack is mainly React and Vue for frontend, and internal Node.js based 
 
 ## Solo Founder Experience
 
+### AI Simulator
+
 I start [AI Simulator](https://ai-simulator.com/) as a sole proprietorship in 2022 after I left my job at Ant Group to pursue entrepreneurship. I built a series of AI Simulator games in 2022 and 2023, where players can use AI to play puzzle games like 2024, snake and block puzzle on their mobile phone.
 
 It also allows players to train and run popular RL models like DQN and PPO on their mobile phone. I believe I'm the first person to make the PPO training work on mobile phones.
 
 The tech stack is mainly React Native, Expo and tensorflow.js. I also submitted and merged [3 pull requests](https://github.com/tensorflow/tfjs/commits?author=paradite) to the tensorflow.js repo to fix some issues.
 
-At end of 2023, I have [replicated GPT-2 results](https://16x.engineer/2023/12/29/nanoGPT-azure-T4-ubuntu-guide.html) myself by running nanoGPT on an Azure instance.
+### 16x Prompt
 
 I built [16x Prompt](https://prompt.16x.engineer/) in September 2023, an desktop GUI application that streamlines AI coding workflow. The app is built in Electron.js and Vue.js. The project is live and I have been shipping updates and improvements regularly.
 
-By April 2025, I have 7000+ users, more than 500 paid customers (who bought the lifetime license), and made 15k SGD in lifetime sale.
+By June 2025, I have 10,000+ users, more than 500 paid customers (who bought the lifetime license), and made 15k SGD in lifetime sale.
+
+### 16x Tracker 
+
+To help with marketing on Reddit, I built [16x Tracker](https://tracker.16x.engineer/) at end of 2024. It is a SaaS app that tracks keyword mentions on Reddit, consolidate results on a dashboard where user can mark each hit as relevant / irrelevant or reply.
+
+16x Tracker also has an AI classifier trained on historical data to classifier each hit as relevant or irrelevant and filter out irrelevant noise.
+
+I am using 16x Tracker actively to track keywords relevant to my products and user pain points to market my app on Reddit. The download conversion rate for Reddit is quite high at 4.9% as of June 2025, as compared to Google at 4.2%.
+
+However, I have not been marketing 16x Tracker actively, as there are quite a lot of competitors that are more well-known (f5bot) or automated (ReplyGuy).
+
+### 16x Eval
 
 I started building a new desktop app called [16x Eval](https://eval.16x.engineer/) in March 2025. The app aims to be the central workspace for AI developers and power users to do prompt engineering and evaluate models.
+
+### 16x Writer
+
+To help with SEO and writing blog posts, I built a new SaaS called 16x Writer (not yet officially launched). It is AI-assiting writing platform that streamlines the workflow of creating new blog posts and making edits via AI or manually.
+
+Key features include prompt and context (information sources and writing style references) management, version control, comparison between generation results from multiple AI models, compare versions and view changes visually.
 
 ## Consulting and Writing Experience
 
 I have been consulting for several smaller companies and startups in 2024 as fractional CTO and consultation, helping them build software and AI solutions.
 
+I stopped all engagements in March 2025 to focus more on building my own products, as I believe new AI wave will be a great opportunity to build new products myself. But I am open to early-stage startup opportunities that are interesting and in areas I am passionate about.
+
 I started posting on [LinkedIn](https://www.linkedin.com/in/zhu-liang/) regularly around 2023 and have grown my audience on LinkedIn to over 10,000 followers in March 2025, thanks to a few viral posts on topics such as frontend, software engineering and AI. I am part of the LinkedIn Top Voices program, an invitation-only group of experts across the professional world.
 
-I recently started a newsletter [The Ground Truth](https://thegroundtruth.substack.com/) to write longer piece of content on AI.
+I started a newsletter [The Ground Truth](https://thegroundtruth.substack.com/) in 2025 to write longer piece of content on AI.
 
 ## Social Links
 
