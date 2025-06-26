@@ -42,7 +42,11 @@ However, I have not been marketing 16x Tracker actively, as there are quite a lo
 
 ### 16x Eval
 
+As more new models came out in 2025, I realized that different models requires different prompting techniques, and there are no good tool to evaluate these models quickly on different tasks.
+
 I started building a new desktop app called [16x Eval](https://eval.16x.engineer/) in March 2025. The app aims to be the central workspace for AI developers and power users to do prompt engineering and evaluate models.
+
+Key features include prompt and context management, running evaluations with different combinations of prompts and models, and comparing various metrics (length, cost, speed, evaluation score) to see which combination works the best. The scoring of the model output can be done by custom evaluation functions and human rating.
 
 ### 16x Writer
 
